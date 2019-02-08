@@ -1,0 +1,11 @@
+{
+    "name":"@user/plish-notation-calc",
+    "description":"test package fot labaratory work",
+    "version":"1.0.0",
+    "main":"index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Slava Savul",
+    "license": "ISC"
+}
